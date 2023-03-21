@@ -18,10 +18,10 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Water Data Lab - data science and data engineering for wicked water resources problems.'
-    twitter: 'waterdatalab'
+    description: 'False Color Lab - data science and data engineering for satellite remote sensing.'
+    twitter: ''
   analytics:
-    google_analytics: 'G-R33P43THZ1'
+    google_analytics: ''
     baidu_tongji: ''
   verification:
     google: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Water Data Lab.'
+    notice: '© {year} False Color Lab.'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/waterdatalab'
+    url: 'https://github.com/canopy-coop'
     content_dir: content
     branch: master
   avatar:

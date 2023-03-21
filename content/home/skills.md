@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "We love a challenge"
-subtitle = "Water Data Lab LLC (WaDL) is a data-driven consultancy focused on bringing the best science and technology to address the hardest problems facing global water resources."
+subtitle = "False Color Lab (FCL) is a data-driven consultancy focused on bringing the best science and technology to address the hardest problems facing global water resources."
 
 # Showcase personal skills or business features.
 # 

@@ -52,15 +52,16 @@ weight = 10  # Order that this section will appear.
 +++
 
 
-<p style="font-size: 45px">False Color Labs</p>
+<p style="font-size: 45px">False Color Lab</p>
 
 <br>
 
 <p style="font-size: 30px"><i>Satellite remote sensing made simple.</i></p>
 
 <p style="font-size: 21px">
-🛰️ specialized remote sensing consulting<br>
-📈 analysis of satellite data<br>
+🛰️ bespoke remote sensing consulting<br>
+📈 satellite data analysis, mapping, and AI<br>
+🌏 expertise in satellite measures of conflict, migration, land cover, and more<br>
 </p> 
 
 
