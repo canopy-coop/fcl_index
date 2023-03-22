@@ -17,7 +17,7 @@ weight = 10  # Order that this section will appear.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "white"
   
   # Background gradient.
   gradient_start = "#4bb4e3"
@@ -40,7 +40,7 @@ weight = 10  # Order that this section will appear.
   url = "#projects"
   label = "View selected projects"
   icon_pack = "fas"
-  icon = "arrow-right"
+  icon = "fa-solid fa-robot"
   
 #[cta_alt]
 #  url = "https://sourcethemes.com/academic/"
@@ -52,16 +52,16 @@ weight = 10  # Order that this section will appear.
 +++
 
 
-<p style="font-size: 45px">False Color Lab</p>
+<p style="font-size: 45px">False Color Labs</p>
 
 <br>
 
-<p style="font-size: 30px"><i>Satellite remote sensing made simple.</i></p>
+<p style="font-size: 30px">Bespoke Earth observation</p>
 
 <p style="font-size: 21px">
-🛰️ bespoke remote sensing consulting<br>
-📈 satellite data analysis, mapping, and AI<br>
-🌏 expertise in satellite measures of conflict, migration, land cover, and more<br>
+🌏 Expertise in satellite monitoring of conflict, migration, complex emergencies, and more<br>
+🛰️ Custom remote sensing investigations<br>
+📈 Data product development<br>
 </p> 
 
 

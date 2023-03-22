@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: Mr Robot
+  font_size: s
 
 # SEO
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'False Color Lab - data science and data engineering for satellite remote sensing.'
+    description: 'False Color Labs - data science and data engineering for satellite remote sensing.'
     twitter: ''
   analytics:
     google_analytics: ''
