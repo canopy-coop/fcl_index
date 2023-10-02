@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "FCL" # Website name
-baseURL: 'https://falsecolorlab.com/' # Website URL
+title: "False Color Labs" # Website name
+baseURL: 'https://falsecolorlabs.com/' # Website URL
 
 ############################
 ## LANGUAGE

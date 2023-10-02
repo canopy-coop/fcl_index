@@ -35,7 +35,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: false
     highlight_active_link: true
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} False Color Lab.'
+    notice: '© {year} False Color Labs.'
     license:
       enable: true
       allow_derivatives: false
@@ -65,6 +65,7 @@ features:
     extra_languages:
       - r
       - latex
+      - python
   math:
     enable: false
   privacy_pack:

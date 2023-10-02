@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="80"
+   height="30.304001"
+   viewBox="0 0 21.166379 8.018"
+   version="1.1"
+   id="svg1838"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   inkscape:export-filename="/Users/richpauloo/Documents/GitHub/convolve_coop_index/assets/media/logo.png"
+   inkscape:export-xdpi="139.71721"
+   inkscape:export-ydpi="139.71721"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1842" />
+  <sodipodi:namedview
+     id="namedview1840"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     width="172.12199px"
+     inkscape:zoom="8.8452098"
+     inkscape:cx="37.195274"
+     inkscape:cy="0.62180549"
+     inkscape:window-width="1677"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="text2384"
+     height="25px" />
+  <g
+     style="line-height:1.25"
+     id="g1836">
+    <g
+       aria-label="watergrid"
+       transform="scale(1.0214169,0.97903218)"
+       id="text2384"
+       style="font-size:9.37463px;stroke-width:0.234366">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.70283px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0588122"
+         x="6.2006569"
+         y="5.6804123"
+         id="text7650-5"
+         transform="scale(1.0125011,0.98765324)"><tspan
+           sodipodi:role="line"
+           id="tspan7648-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05561px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0588122"
+           x="6.2006569"
+           y="5.6804123">FCL</tspan></text>
+      <rect
+         style="font-size:9.37463px;line-height:1.25;opacity:0.458252;fill:#fde725;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect3700-8"
+         width="2.4617612"
+         height="2.4903271"
+         x="0.41582251"
+         y="0.65117973" />
+      <rect
+         style="font-size:9.37463px;line-height:1.25;opacity:0.458252;fill:#35b779;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect3700-8-6"
+         width="2.4617612"
+         height="2.4903271"
+         x="2.8775835"
+         y="0.65117973" />
+      <rect
+         style="font-size:9.37463px;line-height:1.25;opacity:0.458252;fill:#31688e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect3700-8-60"
+         width="2.4617612"
+         height="2.4903271"
+         x="0.41582251"
+         y="3.1415069" />
+      <rect
+         style="font-size:9.37463px;line-height:1.25;opacity:0.458252;fill:#440154;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect3700-8-6-3"
+         width="2.4617612"
+         height="2.4903271"
+         x="2.8775835"
+         y="3.1415069" />
+    </g>
+  </g>
+</svg>
